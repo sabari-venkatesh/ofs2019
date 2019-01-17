@@ -6,7 +6,7 @@
     <div class="main">
       <?php include_once("nav.html"); ?>
       <div class="content">
-        <div class="content-page transition-fade">
+        <div class="content-page transition-fade" data-simplebar>
           <div class="grid-2_md-1">
             <div class="col">
               <img src="img/cloud.png" alt="Cloud platform">
