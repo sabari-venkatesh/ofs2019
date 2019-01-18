@@ -98,26 +98,11 @@
             </ul>
           </div>
           
-          <!-- <h4>Related Topics</h4>
-          <ul class="list-unstyled">
-            <li class="list-item is-keywords">
-              <a href="./cloud.php">Cloud</a> |
-              <a href="./blockchain.php">Blockchain</a> |
-              <a href="">Big Data</a>
-            </li>
-          </ul>
-          <ul class="breadcrumb">
-            <li>
-              <a href="">Services</a>
-            </li>
-            <li>
-              <a href="./cloud.php">Cloud Platform</a>
-            </li>
-            <li>
-              <a href="">IaaS</a>
-            </li>
-          </ul> -->
+          <div class="bottom-bar">
+            <?php include_once("breadcrumb.php"); ?>
+          </div>
         </div>
+
         <div class="content-overlay-h transition-slideInLeft">
         </div>
 

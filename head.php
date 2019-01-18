@@ -11,5 +11,5 @@
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="js/swup.min.js"></script>
   <script src="js/scripts.js"></script>
-  <!-- <script src="https://unpkg.com/simplebar@latest/dist/simplebar.js"></script> -->
+  <script src="https://unpkg.com/simplebar@latest/dist/simplebar.js"></script>
 </head>

@@ -36,14 +36,9 @@
               </ul>
             </div>
           </div>
-          <ul class="breadcrumb">
-            <li>
-              <a href="">Services</a>
-            </li>
-            <li>
-              <a href="">Blockchain</a>
-            </li>
-          </ul>
+          <div class="bottom-bar">
+            <?php include_once("breadcrumb.php"); ?>
+          </div>
         </div>
         <div class="content-overlay-h transition-slideInLeft">
   

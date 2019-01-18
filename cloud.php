@@ -6,7 +6,7 @@
     <div class="main">
       <?php include_once("nav.html"); ?>
       <div class="content">
-        <div class="content-page transition-fade" data-simplebar>
+        <div class="content-page transition-fade">
           <div class="grid-2_md-1">
             <div class="col">
               <img src="img/cloud.png" alt="Cloud platform">
@@ -34,14 +34,9 @@
             </div>
           </div>
 
-          <ul class="breadcrumb">
-            <li>
-              <a href="#">Services</a>
-            </li>
-            <li>
-              <a href="#">Cloud Platform</a>
-            </li>
-          </ul>
+          <div class="bottom-bar">
+            <?php include_once("breadcrumb.php"); ?>
+          </div>
         </div>
         <div class="content-overlay-h transition-slideInLeft">
   

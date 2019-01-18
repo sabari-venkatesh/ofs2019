@@ -10,15 +10,15 @@
             <div class="slides">
               <div class="slide" id="slide-1">
                 <h1 class="h2 display-1 text-uppercase">
-                  Businesses <a href="#" class="text-info">Trust</a> 
-                  OFS to deliver <a href="#" class="text-info">Innovative Digital Engineering</a> Solutions
-                  for the <a href="./cloud.php" class="text-info">Cloud platform</a> 
-                  that helps to compete in the <a href="#" class="text-info">digital economy</a>
+                  Businesses <a href="#" class="text-info" data-target="bg2.jpg">Trust</a> 
+                  OFS to deliver <a href="#" class="text-info" data-target="bg3.jpg">Innovative Digital Engineering</a> Solutions
+                  for the <a href="./cloud.php" class="text-info" data-target="bg1.jpg">Cloud platform</a> 
+                  that helps to compete in the <a href="#" class="text-info" data-target="bg4.jpg">digital economy</a>
                 </h1>
               </div>
               <div class="slide" id="slide-2">
                 <h1 class="h2 display-1 text-uppercase">
-                  Businesses <a href="#" class="text-info">Trust</a> 
+                  Businesses <a href="#" class="text-info">Trust</a>
                   OFS to deliver <a href="#" class="text-info">Innovative Digital Engineering</a> Solutions
                   for the <a href="./cloud.php" class="text-info">Cloud platform</a> 
                   that helps to compete in the <a href="#" class="text-info">digital economy</a>
@@ -35,13 +35,13 @@
             </div>
             <ul class="slider-page">
               <li class="slider-pageitem">
-                <a href="#" class="slider-pagelink is-prev"></a>
+                <a href="#" class="slider-pagelink is-prev action-item"></a>
               </li>
               <li class="slider-pageitem">
                 1 of 3
               </li>
               <li class="slider-pageitem">
-                <a href="#" class="slider-pagelink is-next"></a>
+                <a href="#" class="slider-pagelink is-next action-item"></a>
               </li>
             </ul>
           </div>
@@ -51,6 +51,12 @@
         </div>
         <div class="content-overlay-v transition-slideInTop">
         </div>
+      </div>
+
+      <div class="bg-slider">
+        <div class="bg-slide1"></div>
+        <div class="bg-slide2"></div>
+        <div class="bg-slide3"></div>
       </div>
     </div>
     <aside class="bot">
